@@ -6,6 +6,11 @@ A starter project for node.js on Google App Engine Managed VMs using Custom Runt
 
 Start by cloning this repository.
 
+Install dependancies:
+~~~~
+npm install
+~~~
+
 To run the app locally in the dev appserver:
 
 ~~~~
