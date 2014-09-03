@@ -4,6 +4,6 @@
   "version": "0.0.1",
   "dependencies": {
     "express": "3.x",
-    "appengine" : "git+http://github.com:GoogleCloudPlatform/appengine-nodejs.git"
+    "appengine" : "git://github.com/GoogleCloudPlatform/appengine-nodejs.git"
   }
 }
