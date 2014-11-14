@@ -21,7 +21,7 @@ gcloud --verbosity debug preview app run .
 To deploy the app in production:
 
 ~~~~
-gcloud --project YOUR-PROJECT-NAME-HERE preview app deploy --server preview.appengine.google.com .
+gcloud --project YOUR-PROJECT-NAME-HERE preview app deploy .
 ~~~~
 
 ## Application layout
