@@ -9,19 +9,19 @@ Start by cloning this repository.
 To run the app locally in the dev appserver:
 
 ~~~~
-gcloud preview app run .
+gcloud preview app run app.yaml
 ~~~~
 
 If needed, you can enable debug output:
 
 ~~~~
-gcloud --verbosity debug preview app run .
+gcloud --verbosity debug preview app run app.yaml
 ~~~~
 
 To deploy the app in production:
 
 ~~~~
-gcloud --project YOUR-PROJECT-NAME-HERE preview app deploy .
+gcloud --project YOUR-PROJECT-NAME-HERE preview app deploy app.yaml
 ~~~~
 
 ## Application layout
