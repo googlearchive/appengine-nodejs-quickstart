@@ -1,3 +1,7 @@
+![status: inactive](https://img.shields.io/badge/status-inactive-red.svg)
+
+This sample has been moved into [GoogleCloudPlatform/nodejs-getting-started](https://github.com/GoogleCloudPlatform/nodejs-getting-started).
+
 # appengine-nodejs-quickstart
 
 A starter project for node.js on Google App Engine Managed VMs using Custom Runtimes.
